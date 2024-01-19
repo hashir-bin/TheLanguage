@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.63f726fc.css",
+    "main.js": "/react-app/static/js/main.688398f0.js",
+    "static/js/787.d8324052.chunk.js": "/react-app/static/js/787.d8324052.chunk.js",
+    "static/media/hashir.png": "/react-app/static/media/hashir.4e5b2879bdf3e471c005.png",
+    "static/media/WhatsApp Audio 2024-01-18 at 5.00.35 PM.ogg": "/react-app/static/media/WhatsApp Audio 2024-01-18 at 5.00.35 PM.3b8b0bd8d74a8c78c3a8.ogg",
+    "index.html": "/react-app/index.html",
+    "main.63f726fc.css.map": "/react-app/static/css/main.63f726fc.css.map",
+    "main.688398f0.js.map": "/react-app/static/js/main.688398f0.js.map",
+    "787.d8324052.chunk.js.map": "/react-app/static/js/787.d8324052.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f726fc.css",
+    "static/js/main.688398f0.js"
+  ]
+}
