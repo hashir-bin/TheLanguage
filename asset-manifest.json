@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/TheLanguage/static/css/main.99f31e43.css",
-    "main.js": "/TheLanguage/static/js/main.5ce55713.js",
+    "main.js": "/TheLanguage/static/js/main.e3d670b6.js",
     "static/js/787.d8324052.chunk.js": "/TheLanguage/static/js/787.d8324052.chunk.js",
     "static/media/hashir.png": "/TheLanguage/static/media/hashir.4e5b2879bdf3e471c005.png",
     "static/media/WhatsApp Audio 2024-01-18 at 5.00.35 PM.ogg": "/TheLanguage/static/media/WhatsApp Audio 2024-01-18 at 5.00.35 PM.3b8b0bd8d74a8c78c3a8.ogg",
     "index.html": "/TheLanguage/index.html",
     "main.99f31e43.css.map": "/TheLanguage/static/css/main.99f31e43.css.map",
-    "main.5ce55713.js.map": "/TheLanguage/static/js/main.5ce55713.js.map",
+    "main.e3d670b6.js.map": "/TheLanguage/static/js/main.e3d670b6.js.map",
     "787.d8324052.chunk.js.map": "/TheLanguage/static/js/787.d8324052.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99f31e43.css",
-    "static/js/main.5ce55713.js"
+    "static/js/main.e3d670b6.js"
   ]
 }
