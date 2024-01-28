@@ -1,26 +1,34 @@
 {
   "files": {
-    "main.css": "/TheLanguage/static/css/main.df00e823.css",
-    "main.js": "/TheLanguage/static/js/main.3b0f8c5b.js",
+    "main.css": "/TheLanguage/static/css/main.58873f85.css",
+    "main.js": "/TheLanguage/static/js/main.a17bc987.js",
     "static/js/787.d8324052.chunk.js": "/TheLanguage/static/js/787.d8324052.chunk.js",
+    "static/media/day2,7.ogg": "/TheLanguage/static/media/day2,7.1dc6b6f10a6aa3ef4dc0.ogg",
+    "static/media/day2,10.ogg": "/TheLanguage/static/media/day2,10.1c29b6ca4ba32936b3d2.ogg",
     "static/media/day1,3.ogg": "/TheLanguage/static/media/day1,3.dcdd4312ecdbc9048df5.ogg",
+    "static/media/day2,5.ogg": "/TheLanguage/static/media/day2,5.81f9cfcb2b96de3e30dc.ogg",
+    "static/media/day2,6.ogg": "/TheLanguage/static/media/day2,6.f4a230360909424d9e75.ogg",
     "static/media/day1,5.ogg": "/TheLanguage/static/media/day1,5.33bf00d3385b57246671.ogg",
     "static/media/day1,1.ogg": "/TheLanguage/static/media/day1,1.768764ca22229d8ecf62.ogg",
     "static/media/day1,4.ogg": "/TheLanguage/static/media/day1,4.d8bd1d2640dee09c50c7.ogg",
+    "static/media/day2,8.ogg": "/TheLanguage/static/media/day2,8.86f695ed2b41d4636e46.ogg",
     "static/media/day2,4.ogg": "/TheLanguage/static/media/day2,4.7728cd8f33cf38c9c185.ogg",
     "static/media/day2,2.ogg": "/TheLanguage/static/media/day2,2.90857057f3434b1b4ecf.ogg",
+    "static/media/day2,9.ogg": "/TheLanguage/static/media/day2,9.29b48bfa781ed986ad5e.ogg",
     "static/media/day1,2.ogg": "/TheLanguage/static/media/day1,2.be905cfcb592062eb712.ogg",
     "static/media/day2,3.ogg": "/TheLanguage/static/media/day2,3.f49fb1c564b85709b1be.ogg",
+    "static/media/day3,1.ogg": "/TheLanguage/static/media/day3,1.777ab74647279e127801.ogg",
     "static/media/day2,1.ogg": "/TheLanguage/static/media/day2,1.cf925c3ce5250eb4dda5.ogg",
     "static/media/day1,6.ogg": "/TheLanguage/static/media/day1,6.61f02f5ae0bfdfd3f9ab.ogg",
     "static/media/day1,7.ogg": "/TheLanguage/static/media/day1,7.fd0e48a2d445dc88ed4a.ogg",
+    "static/media/day,image.jpeg": "/TheLanguage/static/media/day,image.669f3f1329fc857992cb.jpeg",
     "index.html": "/TheLanguage/index.html",
-    "main.df00e823.css.map": "/TheLanguage/static/css/main.df00e823.css.map",
-    "main.3b0f8c5b.js.map": "/TheLanguage/static/js/main.3b0f8c5b.js.map",
+    "main.58873f85.css.map": "/TheLanguage/static/css/main.58873f85.css.map",
+    "main.a17bc987.js.map": "/TheLanguage/static/js/main.a17bc987.js.map",
     "787.d8324052.chunk.js.map": "/TheLanguage/static/js/787.d8324052.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df00e823.css",
-    "static/js/main.3b0f8c5b.js"
+    "static/css/main.58873f85.css",
+    "static/js/main.a17bc987.js"
   ]
 }
